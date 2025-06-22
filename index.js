@@ -12,7 +12,7 @@ app.get('/twitter', (req, res) => {
 })
 
 app.get('/login', (req, res) => {
-    res.send('<h1>U R great </h1>');
+    res.send('<h1>U success setup pipline</h1>');
 })
 
 app.get('/youtube', (req, res) => {
